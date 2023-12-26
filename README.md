@@ -1,5 +1,10 @@
 # 「生字听写」小工具
-> 这是一个普通程序员写给儿子学习生字的小工具
+> 一个普通程序员写给儿子学习生字的小工具
+
+## 体验地址：
+* https://superb-alpaca-bd830f.netlify.app/
+* https://sunzsh.github.io/dictation/
+
 
 ## 补充完善生字步骤：
 1. 每个生字都需要写在 `/books` 目录下对应的 `年级.学期.txt`，命名规则：
